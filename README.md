@@ -19,8 +19,8 @@ I build and explore AI/ML applications, full-stack web projects, backend systems
 
 - [Portfolio — Ayush Kumar Singh](https://dev-ayush-portfolio.vercel.app/) — personal portfolio, projects, and developer profile
 - [Auto Escrow](https://github.com/DevAyushTech/AutoEscrow) — transaction workflow and escrow platform exploration
-- [SatQuery AI](https://github.com/DevAyushTech) — remote-sensing and satellite imagery AI project work
-- [OrbitRakshak](https://github.com/DevAyushTech) — satellite conjunction and collision-intelligence prototype work
+- [SatQuery AI](https://dev-ayush-portfolio.vercel.app/projects/satquery-ai) — remote-sensing and satellite imagery AI project work
+- [OrbitRakshak](https://dev-ayush-portfolio.vercel.app/projects/orbitrakshak) — satellite conjunction and collision-intelligence prototype work
 - [GhostAudit AI](https://github.com/DevAyushTech/ghostaudit-ai) — anomaly-analysis dashboard exploration
 
 ## Find me online
