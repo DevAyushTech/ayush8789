@@ -1,22 +1,34 @@
-# 💫 About Me:
-🌱 I’m currently learning
+# Ayush Kumar Singh
 
+**Ayush Singh | AI/ML Developer | B.Tech CSE Student**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-singh-5a2549387) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AyushSingh8789) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkuamr10997@gmail.com) 
+I'm Ayush Kumar Singh, also known as Ayush Singh. I study Computer Science & Engineering with a focus on Artificial Intelligence and Machine Learning at Narula Institute of Technology in West Bengal, India.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush8789&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayush8789&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush8789&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build and explore AI/ML applications, full-stack web projects, backend systems, and developer tools. I learn by turning ideas into prototypes, documenting what I build, and improving through projects and hackathons.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Focus areas
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AyushSingh1607) 
+- Artificial Intelligence and Machine Learning
+- Python, FastAPI, and backend development
+- React and full-stack web development
+- LLM applications and computer vision
+- Geospatial AI and satellite imagery
+- Developer tools and experimental systems
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured work
+
+- [Portfolio — Ayush Kumar Singh](https://dev-ayush-portfolio.vercel.app/) — personal portfolio, projects, and developer profile
+- [Auto Escrow](https://github.com/DevAyushTech/AutoEscrow) — transaction workflow and escrow platform exploration
+- [SatQuery AI](https://github.com/DevAyushTech) — remote-sensing and satellite imagery AI project work
+- [OrbitRakshak](https://github.com/DevAyushTech) — satellite conjunction and collision-intelligence prototype work
+- [GhostAudit AI](https://github.com/DevAyushTech/ghostaudit-ai) — anomaly-analysis dashboard exploration
+
+## Find me online
+
+- Portfolio: https://dev-ayush-portfolio.vercel.app/
+- GitHub: https://github.com/DevAyushTech
+- LinkedIn: https://www.linkedin.com/in/connect-ayushsingh/
+- Instagram: https://www.instagram.com/be.aayushh/
+- Email: connect.ayushkumarsingh@gmail.com
+
+I’m interested in thoughtful engineering problems, AI/ML projects, and learning with people who enjoy building useful things.
